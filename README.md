@@ -1,5 +1,4 @@
 
-```markdown
 # Creative Academic Portfolio
 
 ## Project Overview
