@@ -35,7 +35,7 @@ Creative-Academic-Portfolio/
    You can open the `index.html` file directly in your web browser or use a local server:
    - If you have Live Server VS code extension installed, you can right click the file and choose:
      ```bash
-     Open in live server
+     "Open in live server"
      ```
 
 3. **Visit the Local Server**:
