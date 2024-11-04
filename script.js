@@ -24,6 +24,9 @@ function displayInfo(subject) {
         case 'Art':
             infoText = '<strong>Art:</strong> A diverse range of human activities that involve the creation of visual, auditory, or performance artifacts that express the creator\'s imagination or technical skill.';
             break;
+        case 'History':
+            infoText = '<strong>History:</strong> A Deep dive into history our world and our life to see how far we came how far we will reach.';
+            break;
         default:
             infoText = 'Select a subject to see detailed information.';
     }
